@@ -1,6 +1,6 @@
 # 🚀 DataExpert.io Free Bootcamp
 
-Welcome to the **DataExpert.io Free Bootcamp**! This bootcamp is designed to provide a comprehensive introduction to modern data engineering concepts and tools.  
+**DataExpert.io Free Bootcamp**! This bootcamp is designed to provide a comprehensive introduction to modern data engineering concepts and tools.  
 It consists of **lectures**, **assignments**, and **labs** to help you develop hands-on experience in building and maintaining data systems.
 
 ## 📚 Bootcamp Overview
